@@ -1,26 +1,59 @@
 {
     "events": [
         {
-        "id": 1,
-        "name": "San Pedro de Pinta Outreach",
-        "date": "2026-02-22",
-        "time": "18:00",
-        "location": "Monterrey, MX",
-        "description": "3 hours of commitment to spread the word of EDUCA through fun and engaging activities.",
-        "target": "N/A",
-        "result": "N/A",
-        "photo": "../assets/events/SPdPO.jpeg"
+            "id": 1,
+            "name": "San Pedro de Pinta Outreach",
+            "date": "2026-02-22",
+            "time": "18:00",
+            "location": "Monterrey, MX",
+            "description": "3 hours of commitment to spread the word of EDUCA through fun and engaging activities.",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": "../assets/events/SPdPO.jpeg"
         },
         {
-        "id": 2,
-        "name": "Bake Sale",
-        "date": "2026-04-07",
-        "time": "15:30-18:00",
-        "location": "São Paulo, BR",
-        "description": "Bake sale to raise funds for EDUCA's initiatives. Join us for delicious treats and support our cause!",
-        "target": "N/A",
-        "result": "N/A",
-        "photo": "../assets/events/event2.jpeg"
+            "id": 2,
+            "name": "Bake Sale",
+            "date": "2026-04-07",
+            "time": "15:30-18:00",
+            "location": "São Paulo, BR",
+            "description": "Bake sale to raise funds for EDUCA's initiatives. Join us for delicious treats and support our cause!",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": "../assets/events/event2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Club Fair",
+            "date": "2026-08-21",
+            "time": "11:20-12:00",
+            "location": "São Paulo, BR",
+            "description": "Hosted a session introducing EDUCA, its mission, and its projects to students, attracting many new members to the organization.",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
+        },
+        {
+            "id": 4,
+            "name": "College Workshops",
+            "date": "N/A",
+            "time": "N/A",
+            "location": "Monterrey, MX",
+            "description": "",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
+        },
+        {
+            "id": 5,
+            "name": "San Pedro de Pinta",
+            "date": "N/A",
+            "time": "N/A",
+            "location": "Monterrey, MX",
+            "description": "",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
         }
     ]
 }

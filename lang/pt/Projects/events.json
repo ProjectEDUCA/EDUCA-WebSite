@@ -1,26 +1,59 @@
 {
     "events": [
         {
-        "id": 1,
-        "name": "Ação Social de São Pedro de Pinta",
-        "date": "2026-02-22",
-        "time": "18:00",
-        "location": "Monterrey, MX",
-        "description": "3 horas de dedicação para divulgar a EDUCA por meio de atividades divertidas e envolventes.",
-        "target": "N/A",
-        "result": "N/A",
-        "photo": "../assets/events/SPdPO.jpeg"
+            "id": 1,
+            "name": "Ação Social de San Pedro de Pinta",
+            "date": "2026-02-22",
+            "time": "18:00",
+            "location": "Monterrey, MX",
+            "description": "3 horas de dedicação para divulgar a EDUCA por meio de atividades divertidas e envolventes.",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": "../assets/events/SPdPO.jpeg"
         },
         {
-        "id": 2,
-        "name": "Bake Sale",
-        "date": "2026-04-07",
-        "time": "15:30-18:00",
-        "location": "São Paulo, BR",
-        "description": "Bake Sale de bolos para arrecadar fundos para as iniciativas da EDUCA. Junte-se a nós para saborear delícias e apoiar nossa causa!",
-        "target": "N/A",
-        "result": "N/A",
-        "photo": "../assets/events/event2.jpeg"
+            "id": 2,
+            "name": "Bake Sale",
+            "date": "2026-04-07",
+            "time": "15:30-18:00",
+            "location": "São Paulo, BR",
+            "description": "Bake Sale de bolos para arrecadar fundos para as iniciativas da EDUCA. Junte-se a nós para saborear delícias e apoiar nossa causa!",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": "../assets/events/event2.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Club Fair",
+            "date": "2026-08-21",
+            "time": "11:20-12:00",
+            "location": "São Paulo, BR",
+            "description": "Realizamos uma sessão para apresentar a EDUCA, sua missão e seus projetos aos estudantes, atraindo muitos novos membros para a organização.",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
+        },
+        {
+            "id": 4,
+            "name": "College Workshops",
+            "date": "N/A",
+            "time": "N/A",
+            "location": "Monterrey, MX",
+            "description": "",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
+        },
+        {
+            "id": 5,
+            "name": "San Pedro de Pinta",
+            "date": "N/A",
+            "time": "N/A",
+            "location": "Monterrey, MX",
+            "description": "",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
         }
     ]
 }
