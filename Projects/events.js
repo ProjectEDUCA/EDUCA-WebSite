@@ -2,12 +2,16 @@ let allEvents = [];
 
 async function loadEvents() {
     try {
-    const response = await fetch('./events.json');
-    const data = await response.json();
-    allEvents = data.events;
-    renderEvents(allEvents);
+        const response = await fetch('./events.json');
+        const data = await response.json();
+        allEvents = data.events.sort((a, b) => {
+            if (a.date === 'N/A') return 1;
+            if (b.date === 'N/A') return -1;
+            return new Date(b.date) - new Date(a.date);
+        });
+        renderEvents(allEvents);
     } catch (error) {
-    console.error('Error loading events:', error);
+        console.error('Error loading events:', error);
     }
 }
 
