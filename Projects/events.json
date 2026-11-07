@@ -54,6 +54,17 @@
             "target": "N/A",
             "result": "N/A",
             "photo": "../assets/events/event5.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Thanksgiving Changemakers Hallway",
+            "date": "2026-10-11",
+            "time": "10:00-16:00",
+            "location": "São Paulo, BR",
+            "description": "6 hours of commitment to spread the word of EDUCA through interactive display.",
+            "target": "N/A",
+            "result": "N/A",
+            "photo": ""
         }
     ]
 }
